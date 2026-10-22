@@ -23,10 +23,17 @@ Sharpe ratio for a multi-asset portfolio, and measures tail risk through histori
 VaR, CVaR and maximum drawdown, with Matplotlib charts that track risk over time.
 Unit-tested with pytest.
 
+**[Equity Portfolio Construction & Optimisation](https://github.com/franklynton/equity-portfolio-optimisation)** · Python
+
+A 10-stock portfolio across five sectors, with daily and average returns for each
+stock and portfolio return and variance derived from the full variance-covariance
+matrix, starting from equal weights. Mean-variance optimisation then finds the
+minimum-variance and maximum-Sharpe portfolios on the efficient frontier.
+
 ## Skills
 
 - **Languages:** Python, R, SQL
-- **Libraries:** pandas, NumPy, Matplotlib
+- **Libraries:** pandas, NumPy, SciPy, Matplotlib, pytest
 
 ## Contact
 
