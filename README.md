@@ -6,7 +6,7 @@ quantitative finance and technology.
 I'm looking for opportunities in **quantitative trading, development and research**,
 **software engineering**, and **machine learning, AI and data science**.
 
-## Featured project
+## Featured projects
 
 **[Inventory-Contingent Market Maker](https://github.com/franklynton/inventory-market-maker)** · Python
 
@@ -15,6 +15,13 @@ simulated hedge fund requests. Quotes are skewed asymmetrically across five inve
 tiers, widening and shifting prices as a position builds to discourage further
 accumulation. Every trade and position is logged, and cumulative P&L and spread
 dynamics are plotted for each asset.
+
+**[Portfolio Risk Analytics Pipeline](https://github.com/franklynton/portfolio-risk-analytics)** · Python
+
+A pipeline that computes daily and cumulative returns, volatility, rolling beta and
+Sharpe ratio for a multi-asset portfolio, and measures tail risk through historical
+VaR, CVaR and maximum drawdown, with Matplotlib charts that track risk over time.
+Unit-tested with pytest.
 
 ## Skills
 
