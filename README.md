@@ -8,6 +8,14 @@ I'm looking for opportunities in **quantitative trading, development and researc
 
 ## Featured projects
 
+**[Millennium Bug](https://github.com/franklynton/Millenium-Bug)** · TypeScript · [▶ Play it live](https://millenium-bug-ashen.vercel.app)
+
+An AI virtual pet built in 24 hours at HackNotts '26 with a team of four. Players raise a
+"millennium bug" that survived Y2K: it learns from how it's treated, grows up through four
+life stages, and glitches when neglected. Built with Next.js, TypeScript and Supabase on
+Vercel, with LLM chat, a real-time multiplayer lobby, mini-games and a pixel-art editor.
+I led development and brought the team's work together into one live product.
+
 **[Inventory-Contingent Market Maker](https://github.com/franklynton/inventory-market-maker)** · Python
 
 A market-making simulator that quotes bid-offer prices on five equities in response to
@@ -32,8 +40,9 @@ minimum-variance and maximum-Sharpe portfolios on the efficient frontier.
 
 ## Skills
 
-- **Languages:** Python, R, SQL
+- **Languages:** Python, R, SQL, TypeScript
 - **Libraries:** pandas, NumPy, SciPy, Matplotlib, pytest
+- **Web:** Next.js, React, Tailwind CSS, Supabase, Vercel
 
 ## Contact
 
